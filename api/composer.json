@@ -1,0 +1,19 @@
+{
+    "name": "wendellvcunha/assessment-backend",
+    "description": "A test backend",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wendell Vieira",
+            "email": "wendell.vieiracunha@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/",
+            "Core\\": "src/Core/"
+        }
+    }
+}
