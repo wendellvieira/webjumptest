@@ -1,13 +1,13 @@
 # Considerações
 Entrega da avaliação de Backend; Nesta avaliação não fora aplicadas técnicas de frontend pois a mesma visa apenas avaliar backend; 
-> Avaliação rodando em (Sandbox Gojumpers)[http://gojumpers.kdcweb.com.br] 
+> Avaliação rodando em [Sandbox Gojumpers](http://gojumpers.kdcweb.com.br) 
 > Para uma avalição de Frontend usar o seguinte teste [Avaliação Vue](https://github.com/wendellvieira/feracode-test); 
 
 > Caso seja de interesse segue o meu portfólio mais recente:
-* (Stoot Digital)[https://stootdigital.com/#/]
-* (ClubeSign)[https://clubedosign.com.br/]
-* (Galaxy BTC)[http://sandbox.kdcweb.com.br/galaxybtc/beta/]
-* (Primal Source)[http://sandbox.kdcweb.com.br/primal_source/v5/]
+* [Stoot Digital](https://stootdigital.com/#/)
+* [ClubeSign](https://clubedosign.com.br/)
+* [Galaxy BTC](http://sandbox.kdcweb.com.br/galaxybtc/beta/)
+* [Primal Source](http://sandbox.kdcweb.com.br/primal_source/v5/)
 
 
 ## Tecnologias
